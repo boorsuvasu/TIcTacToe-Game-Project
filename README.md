@@ -1,8 +1,7 @@
 # TIcTacToe-Game-Project
-Tic Tac Toe Game 
 Rules of the Game
 
-The game is to be played between two people (in this program between HUMAN and COMPUTER).
+The game is to be played between two people
 
 One of the player chooses ‘O’ and the other ‘X’ to mark their respective cells.
 
